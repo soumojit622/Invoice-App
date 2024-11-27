@@ -1,12 +1,12 @@
-# 🚀 Invoice Platform - Simplify Invoicing with Ease
+# 🚀 Chromatic - Simplify Invoicing with Ease
 
-[![Invoice Platform Banner](https://github.com/soumojit622/Invoice-App/blob/master/public/banner.png)](https://invoice-app-beryl-one.vercel.app)
+[![Chromatic Banner](https://github.com/soumojit622/Invoice-App/blob/master/public/banner.png)](https://invoice-app-beryl-one.vercel.app)
 
-**Invoice Platform** is a feature-rich, full-stack invoicing application built from scratch using cutting-edge technologies. This platform is designed to help you create, manage, and send professional invoices effortlessly. With a clean user experience, powerful backend, and seamless integrations, it's your go-to solution for all things invoicing. 📑💼
+**Chromatic** is a feature-rich, full-stack invoicing application built from scratch using cutting-edge technologies. This platform is designed to help you create, manage, and send professional invoices effortlessly. With a clean user experience, powerful backend, and seamless integrations, it's your go-to solution for all things invoicing. 📑💼
 
 ## 🌐 [Live Demo](https://invoice-app-beryl-one.vercel.app) 🚀
 
-Check out the live demo of Invoice Platform [here](https://invoice-app-beryl-one.vercel.app) 🎉.
+Check out the live demo of **Chromatic** [here](https://invoice-app-beryl-one.vercel.app) 🎉.
 
 ---
 
@@ -142,7 +142,10 @@ A big shoutout to **YouTube** for being an incredible learning platform. Many of
 
 Your support and knowledge made this project possible! 🙌
 
-
 ---
 
 **Happy Invoicing!** 🎉
+
+---
+
+This README will provide a comprehensive overview of your project, its features, and how others can contribute or use it. You can copy this text into the `README.md` file of your GitHub repository.
