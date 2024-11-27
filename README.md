@@ -136,7 +136,12 @@ A heartfelt thank you to the following technologies and their creators:
 
 ## 🎉 Special Thanks ❤️
 
-Special thanks to everyone who contributed to the development and design of this platform. Your support is invaluable, and this project wouldn't have been possible without it! 🙌
+Special thanks to **ChatGPT** for providing invaluable assistance throughout the development of this project, helping with code, ideas, and documentation. 🙏
+
+A big shoutout to **YouTube** for being an incredible learning platform. Many of the resources and tutorials that guided the development of this application came from YouTube creators. 🎥
+
+Your support and knowledge made this project possible! 🙌
+
 
 ---
 
