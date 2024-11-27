@@ -1,12 +1,12 @@
 # 🚀 Invoice Platform - Simplify Invoicing with Ease
 
-[![Invoice Platform Banner](https://github.com/soumojit622/invoice-platform/blob/master/public/banner.png)](https://invoice-platform.vercel.app)
+[![Invoice Platform Banner](https://github.com/soumojit622/Invoice-App/blob/master/public/banner.png)](https://invoice-app-beryl-one.vercel.app)
 
 **Invoice Platform** is a feature-rich, full-stack invoicing application built from scratch using cutting-edge technologies. This platform is designed to help you create, manage, and send professional invoices effortlessly. With a clean user experience, powerful backend, and seamless integrations, it's your go-to solution for all things invoicing. 📑💼
 
-## 🌐 [Live Demo](https://invoice-platform.vercel.app) 🚀
+## 🌐 [Live Demo](https://invoice-app-beryl-one.vercel.app) 🚀
 
-Check out the live demo of Invoice Platform [here](https://invoice-platform.vercel.app) 🎉.
+Check out the live demo of Invoice Platform [here](https://invoice-app-beryl-one.vercel.app) 🎉.
 
 ---
 
