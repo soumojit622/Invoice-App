@@ -19,7 +19,6 @@ Check out the live demo of **Chromatic** [here](https://invoice-app-beryl-one.ve
 - 🤝 [Contributions](#-contributions)
 - ⚡ [Future Improvements](#-future-improvements)
 - 📬 [Contact](#-contact)
-- 👨‍💻 [About the Creator](#-about-the-creator)
 - 🙏 [Acknowledgments](#-acknowledgments)
 - 🎉 [Special Thanks](#-special-thanks)
 
@@ -111,12 +110,6 @@ For questions, feedback, or suggestions, feel free to reach out:
 - **Email**: [soumojitbanerjee22@gmail.com](mailto:soumojitbanerjee22@gmail.com)
 - **LinkedIn**: [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)
 - **GitHub**: [soumojit622](https://github.com/soumojit622)
-
----
-
-## 👨‍💻 About the Creator 🧑‍💻
-
-**[Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)** is a passionate web developer with a keen interest in building user-friendly applications. With experience in modern web technologies, Soumojit strives to deliver exceptional digital experiences that are functional, scalable, and intuitive.
 
 ---
 
