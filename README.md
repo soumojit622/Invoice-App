@@ -37,7 +37,7 @@ Check out the live demo of **Chromatic** [here](https://invoice-app-beryl-one.ve
 - 🏄‍♂️ **Automated Reminder Emails**: Set up and send reminder emails for unpaid invoices. ⏳
 - 💽 **Neon Postgres Database**: Lightning-fast and scalable data storage with advanced query capabilities. 🗄️
 - 💨 **Prisma ORM**: Efficient, easy-to-use ORM for handling database interactions. 🔧
-- 🏎️ **Animated Dashboard with Charts**: Visualize key business metrics and track performance with dynamic charts. 📊
+- 🏎️ **Animated Dashboard**: Visualize key business metrics and track performance with dynamic charts. 📊
 - ✅ **Server Validation using Zod and Conform**: Robust, type-safe validation for all forms and inputs. 🛡️
 - 🎨 **Styling with Tailwind CSS and Shadcn UI**: Sleek and responsive design for optimal user experience. 🎨
 - 😶‍🌫️ **Deployed on Vercel**: Fast and scalable deployment for seamless access anywhere. 🚀
